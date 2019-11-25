@@ -1,0 +1,24 @@
+expand terminal to full mode
+
+to run
+./amanProject
+
+jump to home directory
+h/H
+
+left and right directory path
+<- -> 
+
+create file
+create_file <filename> <path>
+
+create directory
+create_dir <dirname> <path>
+
+copyfile
+copy <path A> <path B>
+
+rename file
+rename <path A> <path B>
+
+
